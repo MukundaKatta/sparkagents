@@ -86,6 +86,3 @@ sparkagents/
 └── package.json
 ```
 
-## License
-
-MIT
